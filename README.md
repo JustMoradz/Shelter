@@ -54,7 +54,7 @@ Ensure you have the following installed:
 ## **Setup and Installation**
 1. **Clone the repository:**
    ```bash  
-   git clone https://github.com/your-repo/shelter-management-system.git  
+   git clone https://github.com/repo/shelter-management-system.git  
    cd shelter-management-system  
    ```  
 
