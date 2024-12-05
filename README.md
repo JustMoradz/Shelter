@@ -33,9 +33,11 @@ A **backend-only application** designed to manage a shelter for cats and dogs. T
 
 ### **Cloud**
 - **Docker**
+- Feel free to add Kubernetes for container orchestration!
 - **AWS**
     - Lambda
     - SNS
+    - (It's going to implement S3 and ElastiCache soon 👀)
 
 ---
 
