@@ -1,8 +1,7 @@
 
 # Shelter Management System 🐾
 
-A **backend-only application** designed to manage a shelter for cats and dogs. This project demonstrates a robust and scalable implementation using modern technologies.
-
+A **backend-only application** designed to manage a shelter for cats and dogs. This project can be used by everyone that wants to create a platfrom to manage Shelters! :)
 ---
 
 ## **Features**
