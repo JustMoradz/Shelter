@@ -8,7 +8,6 @@ A **backend-only application** designed to manage a shelter for cats and dogs. T
 - Manage **users** (adopters) and **animal information**.
 - Store and retrieve data efficiently using **PostgreSQL** and **MongoDB**.
 - Deploy notifications with **AWS SNS** using **AWS Lambda**.
-- Built-in **validation** and **security** with Spring Security.
 - Containerized environment using **Docker** for easy deployment.
 
 ---
