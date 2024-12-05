@@ -47,8 +47,7 @@ Ensure you have the following installed:
 - Docker
 - PostgreSQL
 - MongoDB
-- AWS CLI
-
+- AWS Dependency :) -> get an account too!!
 ---
 
 ## **Setup and Installation**
